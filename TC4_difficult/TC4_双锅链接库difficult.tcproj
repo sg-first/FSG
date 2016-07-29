@@ -1,0 +1,17 @@
+[ProjInfo]
+EnterFile=TC4_双锅链接库difficult.t
+Language=0
+Version=4.036
+ExeIco=
+[Fold]
+IsFold=
+[VersionInfo]
+ProductName=difficult
+FileDescription=difficult
+FileVersion=1.0.0.0
+ProductVersion=1.0.0.0
+InternalName=difficult
+CompanyName=双锅
+LegalCopyright=(C)<双锅>保留所有版权
+[DesignInfo]
+LockedCtrl=
